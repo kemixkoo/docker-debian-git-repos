@@ -1,4 +1,4 @@
-FROM kemixkoo/debian-maven:buster-slim
+FROM kemixkoo/debian-maven
 MAINTAINER Kemix Koo <kemix_koo@163.com>
 
 ENV DEBIAN_FRONTEND noninteractive
