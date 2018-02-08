@@ -1,6 +1,8 @@
 # Debian Git Repositories Image
 
-Based on [kemixkoo/debian-maven](https://hub.docker.com/r/kemixkoo/debian-maven/)
+Based on 
+- DockerHub, [kemixkoo/debian-maven](https://hub.docker.com/r/kemixkoo/debian-maven/) 
+- GitHub, [kemixkoo/docker-debian-maven](https://github.com/kemixkoo/docker-debian-maven)
 
 
 # Usage
